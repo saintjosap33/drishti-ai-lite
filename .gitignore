@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.h5
+*.log
+data/
+datasets/
+checkpoints/
+.env

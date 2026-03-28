@@ -1,0 +1,20 @@
+image,class,confidence,bbox_x1,bbox_y1,bbox_x2,bbox_y2
+Human body_41241ee9e25d8038.jpg,Human body,0.446,0.0,0.6,1024.0,767.8
+Human body_ba541217f2cb5191.jpg,Human body,0.429,0.0,0.0,679.8,1017.2
+Human body_e55f573e72aa8616.jpg,Tank,0.402,0.4,0.0,1023.0,681.8
+Rifle_31315f4df7ede550.jpg,Rifle,0.468,0.0,0.0,1024.0,765.0
+Rifle_67e8e539b123747e.jpg,Missile,0.465,0.0,0.0,1023.5,768.0
+Rifle_6d5a83b6b98217d3.jpg,Helicopter,0.488,0.0,0.0,1024.0,356.0
+Rifle_6d5a83b6b98217d3.jpg,Rifle,0.447,1.7,0.0,1023.3,355.0
+Rifle_7cf3c8b1804e0142.jpg,Human body,0.429,0.0,0.0,624.2,1021.6
+Rifle_7cf3c8b1804e0142.jpg,Rifle,0.406,0.1,0.0,623.4,1021.9
+Rifle_7f11fcb0be389d21.jpg,Human body,0.453,0.1,0.0,1023.4,750.0
+Rifle_8076458565ab55ab.jpg,Rifle,0.444,0.0,0.0,1023.3,678.0
+Rifle_8b0167996173c94b.jpg,Human body,0.499,1.4,0.0,858.1,1024.0
+Rifle_9a761f5bcf8fc06f.jpg,Rifle,0.481,0.0,0.0,1023.9,683.0
+Rifle_aab2de24a5b7521a.jpg,Tank,0.481,0.4,0.5,1023.1,680.0
+Rifle_ecfd84877d8c9668.jpg,Rifle,0.492,0.0,0.0,1023.7,683.0
+Rifle_ecfd84877d8c9668.jpg,Helicopter,0.42,1.7,0.0,1022.6,683.0
+Rifle_fa4c4e5b92cd3cb2.jpg,Helicopter,0.472,1.2,0.2,1022.8,768.0
+Tank_5b565ea96ff622c4.jpg,Tank,0.446,0.0,0.6,1024.0,768.0
+Tank_d4e19605fe1ec858.jpg,Helicopter,0.434,0.0,1.2,1023.8,768.0
