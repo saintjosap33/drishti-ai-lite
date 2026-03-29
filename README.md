@@ -97,7 +97,9 @@ Drishti-AI: Drone-based RL System for Intelligent Human Tracking and Identificat
 Defense surveillance
 Autonomous UAV systems
 Intelligent monitoring
-👨‍💻 Author
 
+
+👨‍💻 Author
 Adithya J
-B.Tech CSE, VIT Chennai
+B.Tech CSE,
+ VIT Chennai
