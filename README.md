@@ -87,19 +87,32 @@ cd drishti-ai-lite
 
 pip install -r requirements.txt
 ```
-📄 Research
+## 📄 Research
 
-IEEE CINS 2025
+IEEE CINS 2025  
 
-Drishti-AI: Drone-based RL System for Intelligent Human Tracking and Identification
-
-🎯 Applications
-Defense surveillance
-Autonomous UAV systems
-Intelligent monitoring
+Drishti-AI: Drone-based RL System for Intelligent Human Tracking and Identification  
 
 
-👨‍💻 Author
-Adithya J
-B.Tech CSE,
- VIT Chennai
+
+---
+
+## 🎯 Applications
+
+Defense surveillance  
+
+Autonomous UAV systems  
+
+Intelligent monitoring  
+
+
+
+---
+
+## 👨‍💻 Author
+
+Adithya J  
+
+B.Tech CSE  
+
+VIT Chennai  
