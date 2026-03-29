@@ -86,6 +86,7 @@ git clone https://github.com/saintjosap33/drishti-ai-lite.git
 cd drishti-ai-lite
 
 pip install -r requirements.txt
+```
 📄 Research
 
 IEEE CINS 2025
