@@ -1,26 +1,44 @@
-🚁 Drishti-AI (Lite)
+# **Drishti-AI**
 
-Autonomous Drone Surveillance using Reinforcement Learning and YOLOv8
+##### 
 
-📌 Overview
+##### Autonomous Drone Surveillance using Reinforcement Learning and YOLOv8
 
-Drishti-AI is an autonomous UAV system integrating PPO-based reinforcement learning for navigation with YOLOv8 for real-time human detection.
 
-It enables intelligent decision-making through a closed perception–action loop.
 
-Based on an IEEE-published research work.
+Overview
 
-🧠 Key Features
+
+
+Drishti-AI is an autonomous UAV system that integrates Proximal Policy Optimization (PPO) for navigation with YOLOv8 for real-time human detection.
+
+
+
+The system operates through a closed perception–action loop, enabling intelligent and adaptive decision-making in dynamic environments. This work is based on an IEEE-published research study and focuses on building a simulation-driven autonomous surveillance framework.
+
+
+
+Key Features
+
 PPO-based autonomous navigation
-Real-time human detection (YOLOv8)
-Closed-loop perception → decision system
-Performance evaluation using training metrics
-🏗️ Pipeline
 
-AirSim simulation → State observation → YOLOv8 detection → PPO policy → Action execution → Reward feedback
+Real-time human detection using YOLOv8
 
-📁 Project Structure
-airsim_env/   → UAV simulation setup  
+Closed-loop perception and decision-making system
+
+Performance evaluation using structured training metrics
+
+Pipeline
+
+
+
+AirSim Simulation → State Observation → YOLOv8 Detection → PPO Policy → Action Execution → Reward Feedback
+
+
+
+Project Structure
+
+airsim\_env/   → UAV simulation setup  
 
 training/     → Reinforcement learning training scripts  
 
@@ -34,85 +52,75 @@ logs/         → Lightweight training logs
 
 assets/       → Architecture diagram  
 
-
-
----
-
-## 📊 Results
-
-- Stable PPO convergence  
-
-- Accurate human detection in simulation  
+Results
 
 
 
-### 📈 Metrics
-
-- RL Reward: **347.0**  
-
-- Precision: **95.6%**  
-
-- Recall: **87.8%**  
-
-- mAP@0.5: **93.8%**  
+The system demonstrates stable reinforcement learning convergence along with accurate human detection in a simulated environment.
 
 
 
----
+Metrics
 
-## ⚙️ Tech Stack
+RL Reward: 347.0
 
-Python  
+Precision: 95.6%
 
-PyTorch  
+Recall: 87.8%
 
-OpenCV  
+mAP@0.5: 93.8%
 
-AirSim  
+Tech Stack
 
-YOLOv8  
+Python
 
-Stable-Baselines3  
+PyTorch
 
+OpenCV
 
+AirSim
 
----
+YOLOv8
 
-## 🚀 Setup
+Stable-Baselines3
 
-```bash
+Setup
+
 git clone https://github.com/saintjosap33/drishti-ai-lite.git
+
+
 
 cd drishti-ai-lite
 
+
+
 pip install -r requirements.txt
-```
-## 📄 Research
 
-IEEE CINS 2025  
-
-Drishti-AI: Drone-based RL System for Intelligent Human Tracking and Identification  
+Research
 
 
 
----
+IEEE CINS 2025
 
-## 🎯 Applications
-
-Defense surveillance  
-
-Autonomous UAV systems  
-
-Intelligent monitoring  
+Drishti-AI: Drone-based RL System for Intelligent Human Tracking and Identification
 
 
 
----
+Applications
 
-## 👨‍💻 Author
+Defense surveillance
 
-Adithya J  
+Autonomous UAV systems
 
-B.Tech CSE  
+Intelligent monitoring and tracking
 
-VIT Chennai  
+Author
+
+
+
+Adithya J
+
+B.Tech Computer Science and Engineering
+
+VIT Chennai
+
